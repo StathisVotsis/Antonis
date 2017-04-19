@@ -1,0 +1,4 @@
+1. Download wampserver 64 or 32 bit (depends on windows)
+2. Install it 
+3. If msvcr exception download windows 2012 vs update 4
+4. change ports 81 for apache 3307 for mysql
