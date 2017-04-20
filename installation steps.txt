@@ -2,3 +2,6 @@
 2. Install it 
 3. If msvcr exception download windows 2012 vs update 4
 4. change ports 81 for apache 3307 for mysql
+5. make mysql and apache start automatic wamp
+   5.1 http://stackoverflow.com/questions/13761340/have-wamp-start-automatically-upon-windows-start-up-without-logging-on-or-any-u
+6. make database with database name antwnis user antwnis pass antwnis@123         
